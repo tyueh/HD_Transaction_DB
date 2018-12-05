@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="HD_Transaction" id="E97D0161-EEA3-DD81-ADB5-1B93E91C2B50" version="3.5">
+<createdBy>JoshYueh</createdBy>
+<createdTime>2018-12-05 19:09:25 UTC</createdTime>
+<ownerDesignName>HD_Transaction</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E97D0161-EEA3-DD81-ADB5-1B93E91C2B50</designId>
+</OSDM_Design>
